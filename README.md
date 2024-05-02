@@ -23,6 +23,8 @@ DNS records for "crazy2cdn.com" was created last month (see crazy2cdn.com.dns.re
 
 also urls provided on some files depend on "time" so they expired and you wont be able to see responses without going through the process from scratch
 
+please note that this backdoor was probably created by an employee at kentkart
+
 ### SNAPSHOTS FOR /cozumler/mobil-uygulama:
 CLEAN-VERSION : https://web.archive.org/web/20240224160625/https://www.kentkart.com/solutions/mobile-application/
 COMPROMISED-VERSION : https://web.archive.org/web/20240502171725/https://www.kentkart.com/solutions/mobile-application/
