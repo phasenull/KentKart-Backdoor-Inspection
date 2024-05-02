@@ -1,0 +1,2 @@
+Found out that https://www.kentkart.com/cozumler/mobil-uygulama/ has been compromised somehow,
+This repo is just a workspace to reveal the source code of backdoor, not the backdoor itself and definitely not made with any harmful reasons. DO NOT EXECUTE ANY OF THE CODE GIVEN IN THIS REPOSITORY.
