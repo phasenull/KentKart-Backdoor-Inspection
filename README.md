@@ -6,9 +6,9 @@ This repo is just a workspace to reverse-engineer the source code of backdoor an
 
 
 ### BACKDOOR FLOW
-step 1: script that exist in the root of html (parts/part_1.js) fetches parts/part_2.js from remote server so called "crazy2cdn.com" and injects into the head of root html
-step 2: new injected part (parts/part_2.js) fetches parts/part_3.js from the same remote server and injects into the head also.
-step 3: par_3 redirects to localized scam sites
+- step 1: script that exist in the root of html (parts/part_1.js) fetches parts/part_2.js from remote server so called "crazy2cdn.com" and injects into the head of root html
+- step 2: new injected part (parts/part_2.js) fetches parts/part_3.js from the same remote server and injects into the head also.
+- step 3: par_3 redirects to localized scam sites
 
 ### NOTES :
 
